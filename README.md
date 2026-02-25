@@ -4,16 +4,16 @@ A basic React application that showcases static job posting cards. This project 
 
 Follow these steps to run the project locally:
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository: 
 git clone https://github.com/your-username/React-Cards-Project.git
 
-2️⃣ Navigate to the project folder
+2️⃣ Navigate to the project folder: 
 cd React-Cards-Project
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies: 
 npm install
 
-4️⃣ Start the development server
+4️⃣ Start the development server: 
 npm run dev
 
 The app will run on:
